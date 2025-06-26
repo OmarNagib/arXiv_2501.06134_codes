@@ -1,4 +1,4 @@
-Mathematica notebooks for the figures in arXiv:2501.06134: "Exact steady state of perturbed open quantum systems" by Omar Nagib and Thad G. Walker, which presents a nonperturbative method to efficiently find the steady steady of Markovian open quantum systems. 
+Mathematica notebooks for the figures in [arXiv:2501.06134](https://arxiv.org/abs/2501.06134): "Exact steady state of perturbed open quantum systems" by Omar Nagib and Thad G. Walker, which presents a nonperturbative method to efficiently find the steady steady of Markovian open quantum systems. 
 
 We would appreciate citing the corresponding paper and the repository in case of using the work. 
 
